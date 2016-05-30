@@ -14,3 +14,7 @@
 #image recognition
 * https://my.craftar.net/accounts/signup/
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
+
+#Other
+http://www.alicebot.org/aiml.html
+https://en.wikipedia.org/wiki/AIML
