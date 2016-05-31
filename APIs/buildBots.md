@@ -18,3 +18,8 @@
 #Other
 http://www.alicebot.org/aiml.html
 https://en.wikipedia.org/wiki/AIML
+
+
+#Payment
+https://spreedly.com/
+https://www.checkout.com/
