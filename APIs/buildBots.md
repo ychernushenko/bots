@@ -16,10 +16,10 @@
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 
 #Other
-http://www.alicebot.org/aiml.html
-https://en.wikipedia.org/wiki/AIML
+* http://www.alicebot.org/aiml.html
+* https://en.wikipedia.org/wiki/AIML
 
 
 #Payment
-https://spreedly.com/
-https://www.checkout.com/
+* https://spreedly.com/
+* https://www.checkout.com/
